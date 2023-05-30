@@ -1,6 +1,6 @@
 <p align="center>
   <a href="https://github.com/ImViet">
-     <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=900&size=24&pause=200&color=509CC5&width=435&lines=Hello+Everyone+%F0%9F%91%8D;I'm+Viet"/>
+     <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=900&size=24&duration=3000&pause=300&color=509CC5&center=true&vCenter=true&width=435&lines=Hello+Everyone+%F0%9F%91%8D;I'm+Viet"/>
   </a>
 </p>
 <!--
