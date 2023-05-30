@@ -1,11 +1,11 @@
-### Hi there 👋
-
+<p align="center>
+  <a href="https://github.com/ImViet">
+     <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=900&size=24&pause=200&color=509CC5&width=435&lines=Hello+Everyone+%F0%9F%91%8D;I'm+Viet"/>
+  </a>
+</p>
 <!--
 **ImViet/ImViet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-  <a href="https://github.com/DoVuMinhOanh1982"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=5F9EA0&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;My+name's+Minh+Oanh+🐷" alt="DoVuMinhOanh1982 | hello_world!" /></a>
-</p>
-<h1>Hello</h1>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
